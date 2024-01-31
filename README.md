@@ -1,6 +1,6 @@
 #  Minidrone Line Follower
 ***
-![line_follower](/screenshots/line_follower.PNG)
+![line_follower](/screenshots/line_follower.jpg)
 # Video
 ***
 https://youtube.com/shorts/nlAD_U2LvhE?feature=share
